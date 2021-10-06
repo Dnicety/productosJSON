@@ -1,8 +1,7 @@
-{"productos" : [{
+[{
 	"id" : "1",
 	"product" : "Quequitos",
 	"description" : "x Pza.",
 	"price" : "$8.00 MXN",
 	"image" : "src/img/muffin.png"
-}],
-}
+}]
